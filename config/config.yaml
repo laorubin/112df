@@ -13,4 +13,4 @@ source-files:
   # use local file
   - source.yaml
   # use web file
-  - https://v2pool.herokuapp.com/source.yaml
+  - https://v2pool.herokuapp.com/config/source.yaml
